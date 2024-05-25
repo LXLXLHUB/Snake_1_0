@@ -1,0 +1,3 @@
+#lpszClassName MyWindow
+#lpszAppName  贪吃蛇1.0
+#hbrBackground 255 255 255

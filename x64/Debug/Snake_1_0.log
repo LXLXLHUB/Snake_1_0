@@ -1,0 +1,4 @@
+﻿  game.cpp
+D:\c++_program\Snake_1_0\game.cpp(120,10): warning C4101: “c”: 未引用的局部变量
+D:\c++_program\Snake_1_0\game.cpp(266,16): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Snake_1_0.vcxproj -> D:\c++_program\Snake_1_0\x64\Debug\Snake_1_0.exe
